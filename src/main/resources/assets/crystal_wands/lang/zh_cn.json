@@ -1,0 +1,20 @@
+{
+  "item.crystal_wands.crystal_wand_lv1": "水晶魔杖 I",
+  "item.crystal_wands.crystal_wand_lv2": "水晶魔杖 II",
+  "item.crystal_wands.crystal_wand_lv3": "水晶魔杖 III",
+  "itemGroup.crystal_wands": "水晶魔杖",
+  "modmenu.nameTranslation.crystal_wands": "水晶魔杖",
+  "modmenu.descriptionTranslation.crystal_wands": "一根虽不实用却精美绝伦的魔杖。",
+  "modmenu.summaryTranslation.crystal_wands": "一根虽不实用却精美绝伦的魔杖。",
+  "crystal_wands.description": "一根虽不实用却精美绝伦的魔杖。",
+  "modmenu.instagram": "Oidioom İnstagram",
+  "modmenu.developer": "Tarek Sharabaty",
+  "advancements.crystal_wands.root.title": "水晶魔杖",
+  "advancements.crystal_wands.root.description": "制作或获得你的第一根水晶魔杖。",
+  "advancements.crystal_wands.tier_2.title": "璀璨之雅",
+  "advancements.crystal_wands.tier_2.description": "装备水晶魔杖 II。",
+  "advancements.crystal_wands.tier_3.title": "远古威能",
+  "advancements.crystal_wands.tier_3.description": "获得终极的水晶魔杖 III！",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram"
+}

@@ -1,0 +1,37 @@
+{
+  "parent": "crystal_wands:crystal_wands/tier_2",
+  "display": {
+    "icon": {
+      "id": "crystal_wands:crystal_wand_lv3"
+    },
+    "title": {
+      "translate": "advancements.crystal_wands.tier_3.title"
+    },
+    "description": {
+      "translate": "advancements.crystal_wands.tier_3.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "has_wand_lv3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "crystal_wands:crystal_wand_lv3"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_wand_lv3"
+    ]
+  ],
+  "rewards": {
+    "experience": 100
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "item.crystal_wands.crystal_wand_lv1": "Varinha de cristal I",
+  "item.crystal_wands.crystal_wand_lv2": "Varinha de cristal II",
+  "item.crystal_wands.crystal_wand_lv3": "Varinha de cristal III",
+  "itemGroup.crystal_wands": "Varinhas de Cristal",
+  "modmenu.nameTranslation.crystal_wands": "Varinhas de Cristal",
+  "modmenu.descriptionTranslation.crystal_wands": "Uma varinha pouco prática, porém primorosa.",
+  "modmenu.summaryTranslation.crystal_wands": "Uma varinha pouco prática, porém primorosa.",
+  "crystal_wands.description": "Uma varinha pouco prática, porém primorosa.",
+  "modmenu.instagram": "Oidioom İnstagram",
+  "modmenu.developer": "Tarek Sharabaty",
+  "advancements.crystal_wands.root.title": "Varinhas de Cristal",
+  "advancements.crystal_wands.root.description": "Fabrique ou obtenha sua primeira varinha de cristal.",
+  "advancements.crystal_wands.tier_2.title": "Elegância Radiante",
+  "advancements.crystal_wands.tier_2.description": "Equipe uma varinha de cristal II.",
+  "advancements.crystal_wands.tier_3.title": "Poder Ancestral",
+  "advancements.crystal_wands.tier_3.description": "Obtenha a varinha de cristal definitiva III!",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram"
+}

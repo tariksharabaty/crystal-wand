@@ -1,0 +1,20 @@
+{
+  "item.crystal_wands.crystal_wand_lv1": "Baguette de cristal I",
+  "item.crystal_wands.crystal_wand_lv2": "Baguette de cristal II",
+  "item.crystal_wands.crystal_wand_lv3": "Baguette de cristal III",
+  "itemGroup.crystal_wands": "Baguettes de cristal",
+  "modmenu.nameTranslation.crystal_wands": "Baguettes de cristal",
+  "modmenu.descriptionTranslation.crystal_wands": "Une baguette peu pratique, mais exquise.",
+  "modmenu.summaryTranslation.crystal_wands": "Une baguette peu pratique, mais exquise.",
+  "crystal_wands.description": "Une baguette peu pratique, mais exquise.",
+  "modmenu.instagram": "Oidioom İnstagram",
+  "modmenu.developer": "Tarek Sharabaty",
+  "advancements.crystal_wands.root.title": "Baguettes de Cristal",
+  "advancements.crystal_wands.root.description": "Fabriquez ou obtenez votre première baguette de cristal.",
+  "advancements.crystal_wands.tier_2.title": "Élégance Rayonnante",
+  "advancements.crystal_wands.tier_2.description": "Équipez une baguette de cristal II.",
+  "advancements.crystal_wands.tier_3.title": "Puissance Antique",
+  "advancements.crystal_wands.tier_3.description": "Obtenez l'ultime baguette de cristal III !",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram"
+}

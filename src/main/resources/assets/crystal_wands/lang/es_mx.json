@@ -1,0 +1,20 @@
+{
+  "item.crystal_wands.crystal_wand_lv1": "Varita de cristal I",
+  "item.crystal_wands.crystal_wand_lv2": "Varita de cristal II",
+  "item.crystal_wands.crystal_wand_lv3": "Varita de cristal III",
+  "itemGroup.crystal_wands": "Varitas de cristal",
+  "modmenu.nameTranslation.crystal_wands": "Varitas de cristal",
+  "modmenu.descriptionTranslation.crystal_wands": "Una varita poco práctica, pero exquisita.",
+  "modmenu.summaryTranslation.crystal_wands": "Una varita poco práctica, pero exquisita.",
+  "crystal_wands.description": "Una varita poco práctica, pero exquisita.",
+  "modmenu.instagram": "Oidioom İnstagram",
+  "modmenu.developer": "Tarek Sharabaty",
+  "advancements.crystal_wands.root.title": "Varitas de Cristal",
+  "advancements.crystal_wands.root.description": "Fabrica u obtén tu primera varita de cristal.",
+  "advancements.crystal_wands.tier_2.title": "Elegancia Radiante",
+  "advancements.crystal_wands.tier_2.description": "Equipa una varita de cristal II.",
+  "advancements.crystal_wands.tier_3.title": "Poder Ancestral",
+  "advancements.crystal_wands.tier_3.description": "¡Obtén la varita de cristal definitiva III!",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram"
+}

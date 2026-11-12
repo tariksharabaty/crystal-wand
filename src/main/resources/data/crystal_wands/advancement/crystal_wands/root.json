@@ -1,0 +1,56 @@
+{
+  "display": {
+    "icon": {
+      "id": "crystal_wands:crystal_wand_lv1"
+    },
+    "title": {
+      "translate": "advancements.crystal_wands.root.title"
+    },
+    "description": {
+      "translate": "advancements.crystal_wands.root.description"
+    },
+    "background": "minecraft:block/amethyst_block",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "has_wand_lv1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "crystal_wands:crystal_wand_lv1"
+          }
+        ]
+      }
+    },
+    "has_wand_lv2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "crystal_wands:crystal_wand_lv2"
+          }
+        ]
+      }
+    },
+    "has_wand_lv3": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "crystal_wands:crystal_wand_lv3"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_wand_lv1",
+      "has_wand_lv2",
+      "has_wand_lv3"
+    ]
+  ]
+}

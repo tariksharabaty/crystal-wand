@@ -1,0 +1,20 @@
+{
+  "item.crystal_wands.crystal_wand_lv1": "Crystal Wand I",
+  "item.crystal_wands.crystal_wand_lv2": "Crystal Wand II",
+  "item.crystal_wands.crystal_wand_lv3": "Crystal Wand III",
+  "itemGroup.crystal_wands": "Crystal Wands",
+  "modmenu.nameTranslation.crystal_wands": "Crystal Wands",
+  "modmenu.descriptionTranslation.crystal_wands": "An impractical, yet exquisite wand.",
+  "modmenu.summaryTranslation.crystal_wands": "An impractical, yet exquisite wand.",
+  "crystal_wands.description": "An impractical, yet exquisite wand.",
+  "modmenu.instagram": "Oidioom İnstagram",
+  "modmenu.developer": "Tarek Sharabaty",
+  "advancements.crystal_wands.root.title": "Crystal Wands",
+  "advancements.crystal_wands.root.description": "Craft or obtain your first crystal wand.",
+  "advancements.crystal_wands.tier_2.title": "Radiant Elegance",
+  "advancements.crystal_wands.tier_2.description": "Equip a Crystal Wand II.",
+  "advancements.crystal_wands.tier_3.title": "Ancient Might",
+  "advancements.crystal_wands.tier_3.description": "Obtain the ultimate Crystal Wand III!",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram"
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "crystal_wands",
+  "version": "${version}",
+  "name": "Crystal Wands",
+  "description": "An impractical, yet exquisite wand.",
+  "authors": [
+    "Tarek Sharabaty",
+    "Oidioom"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/crystal_wands/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.oidioomstudio.crystalwands.CrystalWandsMod"
+    ],
+    "client": [
+      "com.oidioomstudio.crystalwands.client.CrystalWandsClient"
+    ],
+    "modmenu": [
+      "com.oidioomstudio.crystalwands.client.ModMenuIntegration"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": ">=26.3",
+    "java": ">=25",
+    "fabric-api": "*",
+    "olib": ">=0.0.1"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.instagram.lordotarik": "https://www.instagram.com/tariksby",
+        "modmenu.instagram.oidioom": "https://www.instagram.com/oidioom"
+      }
+    }
+  }
+}

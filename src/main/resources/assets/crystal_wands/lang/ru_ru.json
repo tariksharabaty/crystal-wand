@@ -1,0 +1,20 @@
+{
+  "item.crystal_wands.crystal_wand_lv1": "Кристальная палочка I",
+  "item.crystal_wands.crystal_wand_lv2": "Кристальная палочка II",
+  "item.crystal_wands.crystal_wand_lv3": "Кристальная палочка III",
+  "itemGroup.crystal_wands": "Кристальные палочки",
+  "modmenu.nameTranslation.crystal_wands": "Кристальные палочки",
+  "modmenu.descriptionTranslation.crystal_wands": "Не самый практичный, но изысканный жезл.",
+  "modmenu.summaryTranslation.crystal_wands": "Не самый практичный, но изысканный жезл.",
+  "crystal_wands.description": "Не самый практичный, но изысканный жезл.",
+  "modmenu.instagram": "Oidioom İnstagram",
+  "modmenu.developer": "Tarek Sharabaty",
+  "advancements.crystal_wands.root.title": "Кристальные палочки",
+  "advancements.crystal_wands.root.description": "Создайте или получите свою первую кристальную палочку.",
+  "advancements.crystal_wands.tier_2.title": "Сияющее изящество",
+  "advancements.crystal_wands.tier_2.description": "Экипируйте кристальную палочку II.",
+  "advancements.crystal_wands.tier_3.title": "Древнее могущество",
+  "advancements.crystal_wands.tier_3.description": "Получите абсолютную кристальную палочку III!",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram"
+}

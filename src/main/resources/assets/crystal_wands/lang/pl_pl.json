@@ -1,0 +1,20 @@
+{
+  "item.crystal_wands.crystal_wand_lv1": "Kryształowa różdżka I",
+  "item.crystal_wands.crystal_wand_lv2": "Kryształowa różdżka II",
+  "item.crystal_wands.crystal_wand_lv3": "Kryształowa różdżka III",
+  "itemGroup.crystal_wands": "Kryształowe różdżki",
+  "modmenu.nameTranslation.crystal_wands": "Kryształowe różdżki",
+  "modmenu.descriptionTranslation.crystal_wands": "Niepraktyczna, lecz niezwykle wykwintna różdżka.",
+  "modmenu.summaryTranslation.crystal_wands": "Niepraktyczna, lecz niezwykle wykwintna różdżka.",
+  "crystal_wands.description": "Niepraktyczna, lecz niezwykle wykwintna różdżka.",
+  "modmenu.instagram": "Oidioom İnstagram",
+  "modmenu.developer": "Tarek Sharabaty",
+  "advancements.crystal_wands.root.title": "Kryształowe Różdżki",
+  "advancements.crystal_wands.root.description": "Stwórz lub zdobądź swoją pierwszą kryształową różdżkę.",
+  "advancements.crystal_wands.tier_2.title": "Promienna Elegancja",
+  "advancements.crystal_wands.tier_2.description": "Załóż kryształową różdżkę II.",
+  "advancements.crystal_wands.tier_3.title": "Starożytna Potęga",
+  "advancements.crystal_wands.tier_3.description": "Zdobądź ostateczną kryształową różdżkę III!",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram"
+}

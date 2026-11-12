@@ -1,0 +1,20 @@
+{
+  "item.crystal_wands.crystal_wand_lv1": "Bacchetta di cristallo I",
+  "item.crystal_wands.crystal_wand_lv2": "Bacchetta di cristallo II",
+  "item.crystal_wands.crystal_wand_lv3": "Bacchetta di cristallo III",
+  "itemGroup.crystal_wands": "Bacchette di cristallo",
+  "modmenu.nameTranslation.crystal_wands": "Bacchette di cristallo",
+  "modmenu.descriptionTranslation.crystal_wands": "Una bacchetta poco pratica, ma squisita.",
+  "modmenu.summaryTranslation.crystal_wands": "Una bacchetta poco pratica, ma squisita.",
+  "crystal_wands.description": "Una bacchetta poco pratica, ma squisita.",
+  "modmenu.instagram": "Oidioom İnstagram",
+  "modmenu.developer": "Tarek Sharabaty",
+  "advancements.crystal_wands.root.title": "Bacchette di Cristallo",
+  "advancements.crystal_wands.root.description": "Crea o ottieni la tua prima bacchetta di cristallo.",
+  "advancements.crystal_wands.tier_2.title": "Eleganza Radiosa",
+  "advancements.crystal_wands.tier_2.description": "Equipaggia una bacchetta di cristallo II.",
+  "advancements.crystal_wands.tier_3.title": "Potere Antico",
+  "advancements.crystal_wands.tier_3.description": "Ottieni la bacchetta di cristallo definitiva III!",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram"
+}

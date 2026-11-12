@@ -1,0 +1,20 @@
+{
+  "item.crystal_wands.crystal_wand_lv1": "수정 완드 I",
+  "item.crystal_wands.crystal_wand_lv2": "수정 완드 II",
+  "item.crystal_wands.crystal_wand_lv3": "수정 완드 III",
+  "itemGroup.crystal_wands": "수정 지팡이",
+  "modmenu.nameTranslation.crystal_wands": "수정 지팡이",
+  "modmenu.descriptionTranslation.crystal_wands": "실용성은 없지만, 더없이 우아한 마법봉.",
+  "modmenu.summaryTranslation.crystal_wands": "실용성은 없지만, 더없이 우아한 마법봉.",
+  "crystal_wands.description": "실용성은 없지만, 더없이 우아한 마법봉.",
+  "modmenu.instagram": "Oidioom İnstagram",
+  "modmenu.developer": "Tarek Sharabaty",
+  "advancements.crystal_wands.root.title": "수정 완드",
+  "advancements.crystal_wands.root.description": "첫 번째 수정 완드를 제작하거나 획득하세요.",
+  "advancements.crystal_wands.tier_2.title": "빛나는 우아함",
+  "advancements.crystal_wands.tier_2.description": "수정 완드 II를 장착하세요.",
+  "advancements.crystal_wands.tier_3.title": "고대의 힘",
+  "advancements.crystal_wands.tier_3.description": "궁극의 수정 완드 III을 획득하세요!",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram"
+}

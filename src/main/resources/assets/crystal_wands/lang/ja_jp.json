@@ -1,0 +1,20 @@
+{
+  "item.crystal_wands.crystal_wand_lv1": "クリスタルワンド I",
+  "item.crystal_wands.crystal_wand_lv2": "クリスタルワンド II",
+  "item.crystal_wands.crystal_wand_lv3": "クリスタルワンド III",
+  "itemGroup.crystal_wands": "水晶の杖",
+  "modmenu.nameTranslation.crystal_wands": "水晶の杖",
+  "modmenu.descriptionTranslation.crystal_wands": "実用性はともかく、息をのむほど美しい優美な杖。",
+  "modmenu.summaryTranslation.crystal_wands": "実用性はともかく、息をのむほど美しい優美な杖。",
+  "crystal_wands.description": "実用性はともかく、息をのむほど美しい優美な杖。",
+  "modmenu.instagram": "Oidioom İnstagram",
+  "modmenu.developer": "Tarek Sharabaty",
+  "advancements.crystal_wands.root.title": "クリスタルワンド",
+  "advancements.crystal_wands.root.description": "初めてのクリスタルワンドを作成または入手する。",
+  "advancements.crystal_wands.tier_2.title": "輝く優雅さ",
+  "advancements.crystal_wands.tier_2.description": "クリスタルワンド IIを装備する。",
+  "advancements.crystal_wands.tier_3.title": "古代の力",
+  "advancements.crystal_wands.tier_3.description": "究極のクリスタルワンド IIIを手に入れる！",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram"
+}

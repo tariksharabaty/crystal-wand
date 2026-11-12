@@ -1,0 +1,20 @@
+{
+  "item.crystal_wands.crystal_wand_lv1": "Кришталева паличка I",
+  "item.crystal_wands.crystal_wand_lv2": "Кришталева паличка II",
+  "item.crystal_wands.crystal_wand_lv3": "Кришталева паличка III",
+  "itemGroup.crystal_wands": "Кристалеві палички",
+  "modmenu.nameTranslation.crystal_wands": "Кристалеві палички",
+  "modmenu.descriptionTranslation.crystal_wands": "Не надто практичний, але вишуканий жезл.",
+  "modmenu.summaryTranslation.crystal_wands": "Не надто практичний, але вишуканий жезл.",
+  "crystal_wands.description": "Не надто практичний, але вишуканий жезл.",
+  "modmenu.instagram": "Oidioom İnstagram",
+  "modmenu.developer": "Tarek Sharabaty",
+  "advancements.crystal_wands.root.title": "Кришталеві палички",
+  "advancements.crystal_wands.root.description": "Створіть або отримайте свою першу кришталеву паличку.",
+  "advancements.crystal_wands.tier_2.title": "Сяюча витонченість",
+  "advancements.crystal_wands.tier_2.description": "Спорядіть кришталеву паличку II.",
+  "advancements.crystal_wands.tier_3.title": "Стародавня могутність",
+  "advancements.crystal_wands.tier_3.description": "Отримайте найвеличнішу кришталеву паличку III!",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram"
+}

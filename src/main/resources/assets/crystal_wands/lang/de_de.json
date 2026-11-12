@@ -1,0 +1,20 @@
+{
+  "item.crystal_wands.crystal_wand_lv1": "Kristallzauberstab I",
+  "item.crystal_wands.crystal_wand_lv2": "Kristallzauberstab II",
+  "item.crystal_wands.crystal_wand_lv3": "Kristallzauberstab III",
+  "itemGroup.crystal_wands": "Kristallzauberstäbe",
+  "modmenu.nameTranslation.crystal_wands": "Kristallzauberstäbe",
+  "modmenu.descriptionTranslation.crystal_wands": "Ein unpraktischer, aber überaus erlesener Zauberstab.",
+  "modmenu.summaryTranslation.crystal_wands": "Ein unpraktischer, aber überaus erlesener Zauberstab.",
+  "crystal_wands.description": "Ein unpraktischer, aber überaus erlesener Zauberstab.",
+  "modmenu.instagram": "Oidioom İnstagram",
+  "modmenu.developer": "Tarek Sharabaty",
+  "advancements.crystal_wands.root.title": "Kristallzauberstäbe",
+  "advancements.crystal_wands.root.description": "Stelle deinen ersten Kristallzauberstab her.",
+  "advancements.crystal_wands.tier_2.title": "Strahlende Eleganz",
+  "advancements.crystal_wands.tier_2.description": "Rüste einen Kristallzauberstab II aus.",
+  "advancements.crystal_wands.tier_3.title": "Uralte Macht",
+  "advancements.crystal_wands.tier_3.description": "Erhalte den ultimativen Kristallzauberstab III!",
+  "modmenu.instagram.lordotarik": "Tarek Sharabaty Instagram",
+  "modmenu.instagram.oidioom": "Oidioom İnstagram"
+}
